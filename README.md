@@ -39,9 +39,6 @@ Your daily planning becomes a mathematical optimization — not guesswork.
 👉 **Try the live app:**  
 https://task-optimizer-udtmhvby4egwtchvxn2uxt.streamlit.app
 
-*(Insert a real screenshot here once you capture one)*  
-`![Screenshot of the app](screenshot.png)`
-
 ---
 
 ## ⚙️ How It Works
